@@ -1,4 +1,4 @@
-﻿MeasureDate,T-outside,T-inside,T-soil-surface,T_fan_input,Front_fan_pipe,T-soil-deep,HF Wall [W/m2],HF Glass [W/m2],Radiation-outside,Radiation-inside,Tdiff
+﻿MeasureTime,T-outside,T-inside,T-soil-surface,T_fan_input,Front_fan_pipe,T-soil-deep,HF Wall [W/m2],HF Glass [W/m2],Radiation-outside,Radiation-inside,Tdiff
 11/8/2022 13:07,6.6,24.5,14.6,21.6,14.8,24.1,-7.92242,14.9511,980.233,552.26,17.9
 11/8/2022 13:08,7.5,24.5,14.6,21.7,14.8,25.3,-6.99037,19.4017,989.162,558.124,17
 11/8/2022 13:09,7.1,25,14.7,21.8,14.7,23.5,-6.6575,19.3321,981.284,555.14,17.9
